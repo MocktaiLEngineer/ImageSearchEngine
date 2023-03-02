@@ -3,6 +3,9 @@ ImageSearchEngine
 
 Retrieve similar images to an input image, at speed.
 
+### Description
+An image embedding is a numerical representation of an image that "embeds" it within a high-dimensional vector space. Image embeddings are useful for a variety of applications, including content-based information retreival and image classifiation. Furthermore, there are many off-the-shelf pretrained CNN architectures that you can use whenever you need.
+
 Project Organization
 ------------
 
